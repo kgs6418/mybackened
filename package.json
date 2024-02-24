@@ -1,0 +1,15 @@
+{
+  "name": "mybackened",
+  "version": "1.0.0",
+  "description": "just basic app",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js"
+  },
+  "author": "kumar gaurav singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2"
+  }
+}
